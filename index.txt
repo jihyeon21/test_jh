@@ -1,1 +1,2 @@
 index.txt 파일입니다.
+Discard 테스트 입니다.
