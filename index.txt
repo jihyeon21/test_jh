@@ -4,3 +4,5 @@ Reset
 Revert
 
 commit이란?
+
+버전을 만들어야 하는 이유
