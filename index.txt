@@ -4,3 +4,5 @@ Reset
 Revert
 
 branch란?
+
+브랜치가 필요한 이유
