@@ -3,6 +3,7 @@ Discard
 Reset
 Revert
 
+
 commit이란?
 
-버전을 만들어야 하는 이유
+브랜치가 필요한 이유
